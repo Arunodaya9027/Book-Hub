@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Land Valuation</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="about_app">About App</string>
+    <string name="profile">Profile</string>
+    <string name="navigation_drawer">BookHub</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favourites_fragment">Favourites Fragment</string>
+    <string name="profile_fragment">Profile Fragment</string>
+    <string name="about_fragment">* It is Demo App make for learning purpose.</string>
+    <string name="about_me">Created By Master :)</string>
+    <string name="contact">Contact -></string>
+    <string name="contact2">www.linkedin.com/in/arunodaya-p-singh-9027/</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_up">New User Sign Up. ?</string>
+    <string name="preference_file_name">Our Preferences</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_the_book">About The Book</string>
+    <string name="blank_fragment">Hello Blank Fragment :)</string>
+    <string name="add_to_fav">Add To Favourites</string>
+    <string name="action_sort">Sort</string>
+</resources>
